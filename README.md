@@ -1,2 +1,2 @@
 # synonymous_discovery
-Several approaches for the discovery of significal cluster of synonymous mutations alone or in combination with missense mutations.
+Several approaches for the discovery of significant clusters of synonymous mutations alone or in combination with missense mutations.
